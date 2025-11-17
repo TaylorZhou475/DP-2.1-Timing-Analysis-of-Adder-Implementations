@@ -8,3 +8,4 @@
 # C:/Users/taylo/OneDrive/Desktop/modelsim_ase/win32aloem/vcom failed.
 #     while executing
 # "vcom -work work -2008 -quiet -stats=none ../Simulation/ModelSim/KoggeStone.vho"
+do TS_BrentKung.do

@@ -1,0 +1,392 @@
+/*************************************************************************/
+/* LadnerFischer_Cyclone.fit.summary
+/*************************************************************************/
+Fitter Status	Successful - Sun Nov 16 15:28:18 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	LadnerFischer
+Family	Cyclone IV E
+Device	EP4CE115F29C7
+Timing Models	Final
+Total logic elements	308 / 114,480 ( < 1 % )
+Total registers	0
+Total pins	195 / 529 ( 37 % )
+Total virtual pins	0
+Total memory bits	0 / 3,981,312 ( 0 % )
+Embedded Multiplier 9-bit elements	0 / 532 ( 0 % )
+Total PLLs	0 / 4 ( 0 % )
+
+/*************************************************************************/
+/* LadnerFischer_Cyclone.map.summary
+/*************************************************************************/
+
+Analysis & Synthesis Status	Successful - Sun Nov 16 15:28:08 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	LadnerFischer
+Family	Cyclone IV E
+Total logic elements	308
+Total registers	0
+Total pins	195
+Total virtual pins	0
+Total memory bits	0
+Embedded Multiplier 9-bit elements	0
+Total PLLs	0
+
+
+/*************************************************************************/
+/* BrentKung_Cyclone.fit.summary
+/*************************************************************************/
+Fitter Status	Successful - Sun Nov 16 15:33:42 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	BrentKung
+Family	Cyclone IV E
+Device	EP4CE115F29C7
+Timing Models	Final
+Total logic elements	283 / 114,480 ( < 1 % )
+Total registers	0
+Total pins	195 / 529 ( 37 % )
+Total virtual pins	0
+Total memory bits	0 / 3,981,312 ( 0 % )
+Embedded Multiplier 9-bit elements	0 / 532 ( 0 % )
+Total PLLs	0 / 4 ( 0 % )
+
+/*************************************************************************/
+/* BrentKung_Cyclone.map.summary
+/*************************************************************************/
+Analysis & Synthesis Status	Successful - Sun Nov 16 15:36:22 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	BrentKung
+Family	Cyclone IV E
+Total logic elements	283
+Total registers	0
+Total pins	195
+Total virtual pins	0
+Total memory bits	0
+Embedded Multiplier 9-bit elements	0
+Total PLLs	0
+
+/*************************************************************************/
+/* KoggeStone_Cyclone.fit.summary
+/*************************************************************************/
+Fitter Status	Successful - Sun Nov 16 15:39:37 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	KoggeStone
+Family	Cyclone IV E
+Device	EP4CE115F29C7
+Timing Models	Final
+Total logic elements	574 / 114,480 ( < 1 % )
+Total registers	0
+Total pins	195 / 529 ( 37 % )
+Total virtual pins	0
+Total memory bits	0 / 3,981,312 ( 0 % )
+Embedded Multiplier 9-bit elements	0 / 532 ( 0 % )
+Total PLLs	0 / 4 ( 0 % )
+
+/*************************************************************************/
+/* KoggeStone_Cyclone.map.summary
+/*************************************************************************/
+Analysis & Synthesis Status	Successful - Sun Nov 16 15:39:26 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	KoggeStone
+Family	Cyclone IV E
+Total logic elements	574
+Total registers	0
+Total pins	195
+Total virtual pins	0
+Total memory bits	0
+Embedded Multiplier 9-bit elements	0
+Total PLLs	0
+
+/*************************************************************************/
+/* RippleCarry_Cyclone.fit.summary
+/*************************************************************************/
+Fitter Status	Successful - Sun Nov 16 15:41:26 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	RippleCarry
+Family	Cyclone IV E
+Device	EP4CE115F29C7
+Timing Models	Final
+Total logic elements	155 / 114,480 ( < 1 % )
+Total registers	0
+Total pins	195 / 529 ( 37 % )
+Total virtual pins	0
+Total memory bits	0 / 3,981,312 ( 0 % )
+Embedded Multiplier 9-bit elements	0 / 532 ( 0 % )
+Total PLLs	0 / 4 ( 0 % )
+
+/*************************************************************************/
+/* RippleCarry_Cyclone.map.summary
+/*************************************************************************/
+Analysis & Synthesis Status	Successful - Sun Nov 16 15:41:15 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	RippleCarry
+Family	Cyclone IV E
+Total logic elements	155
+Total registers	0
+Total pins	195
+Total virtual pins	0
+Total memory bits	0
+Embedded Multiplier 9-bit elements	0
+Total PLLs	0
+
+/*************************************************************************/
+/* ConditionalSum_Cyclone.fit.summary
+/*************************************************************************/
+Fitter Status	Successful - Sun Nov 16 15:43:20 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	ConditionalSum
+Family	Cyclone IV E
+Device	EP4CE115F29C7
+Timing Models	Final
+Total logic elements	227 / 114,480 ( < 1 % )
+Total registers	0
+Total pins	195 / 529 ( 37 % )
+Total virtual pins	0
+Total memory bits	0 / 3,981,312 ( 0 % )
+Embedded Multiplier 9-bit elements	0 / 532 ( 0 % )
+Total PLLs	0 / 4 ( 0 % )
+
+/*************************************************************************/
+/* ConditionalSum_Cyclone.map.summary
+/*************************************************************************/
+Analysis & Synthesis Status	Successful - Sun Nov 16 15:43:10 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	ConditionalSum
+Family	Cyclone IV E
+Total logic elements	227
+Total registers	0
+Total pins	195
+Total virtual pins	0
+Total memory bits	0
+Embedded Multiplier 9-bit elements	0
+Total PLLs	0
+
+/*************************************************************************/
+/* LadnerFischer_Arria.fit.summary
+/*************************************************************************/
+Fitter Status	Successful - Sun Nov 16 15:46:53 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	LadnerFischer
+Family	Arria II GX
+Device	EP2AGX45DF29C6
+Timing Models	Final
+Logic utilization	< 1 %
+Total registers	0
+Total pins	195 / 404 ( 48 % )
+Total virtual pins	0
+Total block memory bits	0 / 2,939,904 ( 0 % )
+DSP block 18-bit elements	0 / 232 ( 0 % )
+Total GXB Receiver Channel PCS	0 / 8 ( 0 % )
+Total GXB Receiver Channel PMA	0 / 8 ( 0 % )
+Total GXB Transmitter Channel PCS	0 / 8 ( 0 % )
+Total GXB Transmitter Channel PMA	0 / 8 ( 0 % )
+Total PLLs	0 / 4 ( 0 % )
+Total DLLs	0 / 2 ( 0 % )
+
+/*************************************************************************/
+/* LadnerFischer_Arria.map.summary
+/*************************************************************************/
+Analysis & Synthesis Status	Successful - Sun Nov 16 15:46:43 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	LadnerFischer
+Family	Arria II GX
+Logic utilization	N/A
+Total registers	0
+Total pins	195
+Total virtual pins	0
+Total block memory bits	0
+DSP block 18-bit elements	0
+Total GXB Receiver Channel PCS	0
+Total GXB Receiver Channel PMA	0
+Total GXB Transmitter Channel PCS	0
+Total GXB Transmitter Channel PMA	0
+Total PLLs	0
+Total DLLs	0
+
+/*************************************************************************/
+/* BrentKung_Arria.fit.summary
+/*************************************************************************/
+Fitter Status	Successful - Sun Nov 16 15:50:51 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	BrentKung
+Family	Arria II GX
+Device	EP2AGX45DF29C6
+Timing Models	Final
+Logic utilization	< 1 %
+Total registers	0
+Total pins	195 / 404 ( 48 % )
+Total virtual pins	0
+Total block memory bits	0 / 2,939,904 ( 0 % )
+DSP block 18-bit elements	0 / 232 ( 0 % )
+Total GXB Receiver Channel PCS	0 / 8 ( 0 % )
+Total GXB Receiver Channel PMA	0 / 8 ( 0 % )
+Total GXB Transmitter Channel PCS	0 / 8 ( 0 % )
+Total GXB Transmitter Channel PMA	0 / 8 ( 0 % )
+Total PLLs	0 / 4 ( 0 % )
+Total DLLs	0 / 2 ( 0 % )
+
+
+/*************************************************************************/
+/* BrentKung_Arria.map.summary
+/*************************************************************************/
+Analysis & Synthesis Status	Successful - Sun Nov 16 15:50:40 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	BrentKung
+Family	Arria II GX
+Logic utilization	N/A
+Total registers	0
+Total pins	195
+Total virtual pins	0
+Total block memory bits	0
+DSP block 18-bit elements	0
+Total GXB Receiver Channel PCS	0
+Total GXB Receiver Channel PMA	0
+Total GXB Transmitter Channel PCS	0
+Total GXB Transmitter Channel PMA	0
+Total PLLs	0
+Total DLLs	0
+
+/*************************************************************************/
+/* KoggeStone_Arria.fit.summary
+/*************************************************************************/
+Fitter Status	Successful - Sun Nov 16 15:57:07 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	KoggeStone
+Family	Arria II GX
+Device	EP2AGX45DF29C6
+Timing Models	Final
+Logic utilization	2 %
+Total registers	0
+Total pins	195 / 404 ( 48 % )
+Total virtual pins	0
+Total block memory bits	0 / 2,939,904 ( 0 % )
+DSP block 18-bit elements	0 / 232 ( 0 % )
+Total GXB Receiver Channel PCS	0 / 8 ( 0 % )
+Total GXB Receiver Channel PMA	0 / 8 ( 0 % )
+Total GXB Transmitter Channel PCS	0 / 8 ( 0 % )
+Total GXB Transmitter Channel PMA	0 / 8 ( 0 % )
+Total PLLs	0 / 4 ( 0 % )
+Total DLLs	0 / 2 ( 0 % )
+
+/*************************************************************************/
+/* KoggeStone_Arria.map.summary
+/*************************************************************************/
+Analysis & Synthesis Status	Successful - Sun Nov 16 15:56:56 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	KoggeStone
+Family	Arria II GX
+Logic utilization	N/A
+Total registers	0
+Total pins	195
+Total virtual pins	0
+Total block memory bits	0
+DSP block 18-bit elements	0
+Total GXB Receiver Channel PCS	0
+Total GXB Receiver Channel PMA	0
+Total GXB Transmitter Channel PCS	0
+Total GXB Transmitter Channel PMA	0
+Total PLLs	0
+Total DLLs	0
+
+/*************************************************************************/
+/* RippleCarry_Arria.fit.summary
+/*************************************************************************/
+Fitter Status	Successful - Sun Nov 16 15:59:43 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	RippleCarry
+Family	Arria II GX
+Device	EP2AGX45DF29C6
+Timing Models	Final
+Logic utilization	< 1 %
+Total registers	0
+Total pins	195 / 404 ( 48 % )
+Total virtual pins	0
+Total block memory bits	0 / 2,939,904 ( 0 % )
+DSP block 18-bit elements	0 / 232 ( 0 % )
+Total GXB Receiver Channel PCS	0 / 8 ( 0 % )
+Total GXB Receiver Channel PMA	0 / 8 ( 0 % )
+Total GXB Transmitter Channel PCS	0 / 8 ( 0 % )
+Total GXB Transmitter Channel PMA	0 / 8 ( 0 % )
+Total PLLs	0 / 4 ( 0 % )
+Total DLLs	0 / 2 ( 0 % )
+
+/*************************************************************************/
+/* RippleCarry_Arria.map.summary
+/*************************************************************************/
+Analysis & Synthesis Status	Successful - Sun Nov 16 15:59:33 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	RippleCarry
+Family	Arria II GX
+Logic utilization	N/A
+Total registers	0
+Total pins	195
+Total virtual pins	0
+Total block memory bits	0
+DSP block 18-bit elements	0
+Total GXB Receiver Channel PCS	0
+Total GXB Receiver Channel PMA	0
+Total GXB Transmitter Channel PCS	0
+Total GXB Transmitter Channel PMA	0
+Total PLLs	0
+Total DLLs	0
+
+/*************************************************************************/
+/* ConditionalSum_Arria.fit.summary
+/*************************************************************************/
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	ConditionalSum
+Family	Arria II GX
+Device	EP2AGX45DF29C6
+Timing Models	Final
+Logic utilization	< 1 %
+Total registers	0
+Total pins	195 / 404 ( 48 % )
+Total virtual pins	0
+Total block memory bits	0 / 2,939,904 ( 0 % )
+DSP block 18-bit elements	0 / 232 ( 0 % )
+Total GXB Receiver Channel PCS	0 / 8 ( 0 % )
+Total GXB Receiver Channel PMA	0 / 8 ( 0 % )
+Total GXB Transmitter Channel PCS	0 / 8 ( 0 % )
+Total GXB Transmitter Channel PMA	0 / 8 ( 0 % )
+Total PLLs	0 / 4 ( 0 % )
+Total DLLs	0 / 2 ( 0 % )
+
+/*************************************************************************/
+/* ConditionalSum_Arria.map.summary
+/*************************************************************************/
+Analysis & Synthesis Status	Successful - Sun Nov 16 16:01:43 2025
+Quartus Prime Version	23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name	DP2
+Top-level Entity Name	ConditionalSum
+Family	Arria II GX
+Logic utilization	N/A
+Total registers	0
+Total pins	195
+Total virtual pins	0
+Total block memory bits	0
+DSP block 18-bit elements	0
+Total GXB Receiver Channel PCS	0
+Total GXB Receiver Channel PMA	0
+Total GXB Transmitter Channel PCS	0
+Total GXB Transmitter Channel PMA	0
+Total PLLs	0
+Total DLLs	0
+

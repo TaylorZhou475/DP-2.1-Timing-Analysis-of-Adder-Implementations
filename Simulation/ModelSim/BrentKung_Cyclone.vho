@@ -17,7 +17,7 @@
 -- PROGRAM "Quartus Prime"
 -- VERSION "Version 23.1std.1 Build 993 05/14/2024 SC Lite Edition"
 
--- DATE "11/15/2025 11:36:01"
+-- DATE "11/16/2025 15:36:42"
 
 -- 
 -- Device: Altera EP4CE115F29C7 Package FBGA780
@@ -79,10 +79,10 @@ ENTITY 	BrentKung IS
     PORT (
 	A : IN std_logic_vector(63 DOWNTO 0);
 	B : IN std_logic_vector(63 DOWNTO 0);
-	S : OUT std_logic_vector(63 DOWNTO 0);
+	S : BUFFER std_logic_vector(63 DOWNTO 0);
 	Cin : IN std_logic;
-	Cout : OUT std_logic;
-	Ovfl : OUT std_logic
+	Cout : BUFFER std_logic;
+	Ovfl : BUFFER std_logic
 	);
 END BrentKung;
 

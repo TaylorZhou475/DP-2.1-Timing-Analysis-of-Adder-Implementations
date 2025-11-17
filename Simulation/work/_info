@@ -1,10 +1,220 @@
 m255
 K4
 z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
 13
 !s112 1.1
 !i10d 8192
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/Users/taylo/OneDrive/Desktop/ENSC350/DP2/Simulation
+Z0 dC:/Users/taylo/OneDrive/Desktop/ENSC350/DP2/Simulation
+Eaddertb
+Z1 w1763243944
+Z2 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+R0
+Z6 8../Simulation/AdderTB.vhd
+Z7 F../Simulation/AdderTB.vhd
+l0
+L7 1
+V=3e:7eSOYhFzKP=ZJ2QHj1
+!s100 WAb`X4b^9`cQ@d9bWfoWc0
+Z8 OV;C;2020.1;71
+33
+Z9 !s110 1763335295
+!i10b 1
+Z10 !s108 1763335295.000000
+Z11 !s90 -reportprogress|300|-work|work|-2008|-quiet|-stats=none|../Simulation/AdderTB.vhd|
+Z12 !s107 ../Simulation/AdderTB.vhd|
+!i113 1
+Z13 o-quiet -work work -2008
+Z14 tExplicit 1 CvgOpt 0
+Atesting
+R2
+R3
+R4
+R5
+Z15 DEx4 work 7 addertb 0 22 =3e:7eSOYhFzKP=ZJ2QHj1
+!i122 1
+l64
+L13 200
+V2GH92M6<WP:IhDCZl8^[h3
+!s100 TFWeF:Mh49Pnia=JVkAUL1
+R8
+33
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ebrentkung
+Z16 w1763235361
+Z17 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z18 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 WOh:M[al;oVzG5c`<He>D0
+Z19 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+R4
+R5
+Z20 DPx10 cycloneive 21 cycloneive_components 0 22 zGMDhP>8e@2k@f0e<PY]k2
+!i122 0
+R0
+Z21 8../Simulation/ModelSim/BrentKung.vho
+Z22 F../Simulation/ModelSim/BrentKung.vho
+l0
+L78 1
+Vg4iYQ_egWZ7en54h>j1hE0
+!s100 10LU2nP?4Wg`^[leBDi@a2
+R8
+33
+R9
+!i10b 1
+R10
+Z23 !s90 -reportprogress|300|-work|work|-2008|-quiet|-stats=none|../Simulation/ModelSim/BrentKung.vho|
+Z24 !s107 ../Simulation/ModelSim/BrentKung.vho|
+!i113 1
+R13
+R14
+Astructure
+R17
+R18
+R19
+R4
+R5
+R20
+Z25 DEx4 work 9 brentkung 0 22 g4iYQ_egWZ7en54h>j1hE0
+!i122 0
+l752
+L287 7739
+VkBI4:MCPN2hDbS`J]J;jo1
+!s100 Jek]jkC>5>h;ng:Q7>^^A0
+R8
+33
+R9
+!i10b 1
+R10
+R23
+R24
+!i113 1
+R13
+R14
+Cconfigbka_rtl
+Z26 eAdderTB
+Z27 aTesting
+R17
+R18
+R19
+R20
+R25
+Z28 DAx4 work 7 addertb 7 testing 22 2GH92M6<WP:IhDCZl8^[h3
+R2
+R3
+R15
+R4
+R5
+!i122 2
+Z29 w1763333999
+R0
+Z30 8../SourceCode/ConfigBrentKung.vhd
+Z31 F../SourceCode/ConfigBrentKung.vhd
+l0
+L9 1
+V;@_kRNc8jBXU?lG1_zO211
+!s100 5iK0kBQ8cLOfPnGTgMiOB0
+R8
+33
+R9
+!i10b 1
+R10
+Z32 !s90 -reportprogress|300|-work|work|-2008|-quiet|-stats=none|../SourceCode/ConfigBrentKung.vhd|
+!s107 ../SourceCode/ConfigBrentKung.vhd|
+!i113 1
+R13
+R14
+Cconfigbka_structure
+R26
+R27
+R17
+R18
+R19
+R20
+R25
+R28
+R2
+R3
+R4
+R5
+R15
+!i122 2
+R29
+R0
+R30
+R31
+l0
+L19 1
+VdJhn0gJY_XL<48=aYSGe53
+!s100 UXOe8DSnj2FFhB69MnN;10
+R8
+33
+R9
+!i10b 1
+R10
+R32
+Z33 !s107 ../SourceCode/ConfigBrentKung.vhd|
+!i113 1
+R13
+R14
+Ehard_block
+R16
+R17
+R18
+R19
+R4
+R5
+R20
+!i122 0
+R0
+R21
+R22
+l0
+L35 1
+ViaHzihVjLZ7JaFo4ZIKG=2
+!s100 >mXi5[`cD`bFC`UBKA<om3
+R8
+33
+R9
+!i10b 1
+R10
+R23
+R24
+!i113 1
+R13
+R14
+Astructure
+R17
+R18
+R19
+R4
+R5
+R20
+DEx4 work 10 hard_block 0 22 iaHzihVjLZ7JaFo4ZIKG=2
+!i122 0
+l65
+L51 20
+VBGXLkE6hg;klEa9dNOPfl3
+!s100 [5;Wd8QGQ>@2NGoJ1I]Y43
+R8
+33
+R9
+!i10b 1
+R10
+R23
+R24
+!i113 1
+R13
+R14

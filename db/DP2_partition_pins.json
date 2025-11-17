@@ -280,11 +280,11 @@
 					"strict" : false
 				},
 				{
-					"name" : "A[1]",
+					"name" : "B[1]",
 					"strict" : false
 				},
 				{
-					"name" : "B[1]",
+					"name" : "A[1]",
 					"strict" : false
 				},
 				{
